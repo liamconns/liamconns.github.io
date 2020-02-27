@@ -23,9 +23,9 @@ linkedin_username: liamconns
 # about_title: About Me
 about_profile_image: images/0.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Liam and I'm a sophomore studying computer science at the University of Kansas. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Liam and I'm a sophomore studying computer science at the University of Kansas.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>C++</mark> including its applications of <mark>Algorithms</mark> and <mark>Data Structures</mark>
 
 # Projects Section
 # projects_title: Projects
