@@ -1,8 +1,9 @@
 - layout: top-middle
-  name: School Project
+  name: Binary Seach Tree
   link: github.com/liamconns
   github: liamconns
   quote: >
-    This is a collection of the projects I worked on for my data structures and algorithm class
+    This C++ project uses a Binary Search Tree
   description: | # this will include new lines to allow paragraphs
-    I have never taken a class that has challenged me in the way that this class, Programming II has. Completing these projects required plenty of hard work and several late nights in the lab. From this, I have learned many skills and I'm very proud of having this in my portfolio. 
+    This program reads in a list of Pokemon that includes an English name, Japanese name, and sorting number.
+    From there, the user can interact with the list by having it printed in different orders, remove pokemon, and add pokemon
