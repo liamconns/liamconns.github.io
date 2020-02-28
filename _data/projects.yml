@@ -7,3 +7,14 @@
   description: | # this will include new lines to allow paragraphs
     This program reads in a list of Pokemon that includes an English name, Japanese name, and sorting number.
     From there, the user can interact with the list by having it printed in different orders, remove pokemon, and add pokemon
+
+layout: top-middle
+  name: Number Guessing Game
+  link: https://github.com/liamconns/Number-Guesser
+  github: liamconns
+  quote: >
+    This is a basic game written in Python
+  description: | # this will include new lines to allow paragraphs
+    I started this mini-project as a way to learn Python, particularly loops, booleans, and the random function.
+    The game asks for the user to input a number between 1 and 100 and then proceeds to tell the user "too high"
+    or "too low" until they get the right number and they are given the option to play again.
