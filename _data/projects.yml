@@ -10,14 +10,25 @@
 
 - layout: top-middle
   name: Recurive Navigation
-  link: https://github.com/liamconns/Number-Guesser
+  link: https://github.com/liamconns/Tank-Navigation
   github: liamconns
   quote: >
-    Using recursive backtracking, this program navigates a "tank" through an "Electric Field"
+    Using recursive backtracking, this program navigates a "tank" through an "electric field"
   description: | # this will include new lines to allow paragraphs
-    After reading in a file that features a matrix of +'s and -'s as well as a start and end point, this program maps its
+    This was by far one of the most fun projects I worked on in school. After reading in a file that features a matrix of +'s and -'s as well as a start and end point, this program maps its
     way through by looking for a route made of alternating +'s and -'s until it has landed on every spot while using backtracking
     to start over when it runs into a dead-end.
+
+- layout: top-middle
+  name: Emergency Priority Queue
+  link: https://github.com/liamconns/Emergency-Queue
+  github: liamconns
+  quote: >
+    This program implements a Max-Heap and Priority Queue to simulate repairs of a power grid
+  description: | # this will include new lines to allow paragraphs
+    In order to "fix" a destroyed power grid, this program reads in a list of commands that can instruct it to add a residency and their prioirity number to a queue,
+    pop off the top priority residencies with the "fix" command, as well as show the status of the remaining residencies on the queue
+
 
 - layout: top-middle
   name: Number Guessing Game
