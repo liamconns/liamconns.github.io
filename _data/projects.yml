@@ -8,7 +8,7 @@
     This program reads in a list of Pokemon that includes an English name, Japanese name, and sorting number.
     From there, the user can interact with the list by having it printed in different orders, remove pokemon, and add pokemon
 
-layout: top-middle
+- layout: top-middle
   name: Number Guessing Game
   link: https://github.com/liamconns/Number-Guesser
   github: liamconns
