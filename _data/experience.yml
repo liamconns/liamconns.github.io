@@ -6,6 +6,13 @@
     Students are the best reflection of a university and the University of Kansas is no exception. As a student ambassador I enjoy giving tours to prospective Jayhawks and am always ready to help with information regarding the university or student life.
 
 - layout: left
+  company: University of Kansas Office of Admissions
+  job_title: Tutor
+  dates: August 2019 - February 2020
+  description: | # this will include new lines to allow paragraphs
+    As a Tutor for the Academic Achievement and Access Center, •	I engaged students in active and collaborative learning outside of the classroom by facilitating course specific tutor groups twice per week where students could practice on a routine basis
+    
+- layout: left
   company: The Beverly Country Club
   link: https://www.beverlycc.org/
   job_title: Caddie
