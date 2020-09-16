@@ -1,12 +1,12 @@
 - layout: top-middle
-  name: Binary Seach Tree
-  link: https://github.com/liamconns/BST
+  name: Spotify Data Collector
+  link: https://github.com/liamconns/spotify-number-crunch
   github: liamconns
   quote: >
-    This C++ project uses a Binary Search Tree
+    This script utilizes Spotify's Web API by using Python's 'Spotipy' library
   description: | # this will include new lines to allow paragraphs
-    This program reads in a list of Pokemon that includes an English name, Japanese name, and sorting number.
-    From there, the user can interact with the list by having it printed in different orders, remove pokemon, and add pokemon
+    Using Spotipy, this script my username and uniform resource indicator for one of my playlists to produce a CSV file. This file is filled with every song on the playlist
+    along with Spotify's own metrics that include features such as "Loudness," "Acousticness," and "Danceability."
 
 - layout: top-middle
   name: Recurive Navigation
@@ -20,15 +20,13 @@
     to start over when it runs into a dead-end.
 
 - layout: top-middle
-  name: Emergency Priority Queue
-  link: https://github.com/liamconns/Emergency-Queue
+  name: Connect Four
+  link: https://github.com/liamconns/Connect-4
   github: liamconns
   quote: >
-    This program implements a Max-Heap and Priority Queue to simulate repairs of a power grid
+    A JavaScript and HTML implementation of a classic game
   description: | # this will include new lines to allow paragraphs
-    In order to "fix" a destroyed power grid, this program reads in a list of commands that can instruct it to add a residency and their prioirity number to a queue,
-    pop off the top priority residencies with the "fix" command, as well as show the status of the remaining residencies on the queue
-
+    I started this project as a way to learn JavaScript. 
 
 - layout: top-middle
   name: Number Guessing Game
