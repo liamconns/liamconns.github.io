@@ -23,11 +23,10 @@ linkedin_username: liamconns
 # about_title: About Me
 about_profile_image: images/0.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Liam and I'm a sophomore studying computer science at the University of Kansas.
+  Hi, my name's Liam and I'm a Junior studying Computer Science at the University of Kansas.
 
-  I am most skilled in <mark>Object-Oriented Programming</mark>, particularly <mark>C++</mark> and its applications of <mark>Algorithms</mark> and <mark>Data Structures</mark>. 
-  Along with C++, I also have basic skills in <mark>C</mark>, <mark>Python</mark>, and <mark>ArcGIS</mark>.
-  I love to learn as I am currently teaching myself Python and its applications using <mark>Raspberry Pi</mark>.
+  I am most skilled in C++, Python, and JavaScript. One of my favorite things about programming is learning how to use new technologies such as Python libraries.
+  Currently, I am teaching myself how to create visuals and Graphical User Interfaces with Python.
 
 # Projects Section
 # projects_title: Projects
